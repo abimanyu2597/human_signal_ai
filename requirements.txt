@@ -1,0 +1,8 @@
+streamlit
+streamlit-webrtc
+mediapipe
+opencv-python-headless
+av
+deepface
+tensorflow>=2.16.0
+tf-keras  # Crucial compatibility fix for newer TensorFlow versions

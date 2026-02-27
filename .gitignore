@@ -45,3 +45,7 @@ venv/
 .venv/
 __pycache__/
 .DS_Store
+
+# virtual env
+venv/
+.venv/

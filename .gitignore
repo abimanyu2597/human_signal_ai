@@ -41,3 +41,7 @@ ENV/
 *.tmp
 *.swp
 *.swo
+venv/
+.venv/
+__pycache__/
+.DS_Store

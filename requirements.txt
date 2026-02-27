@@ -1,7 +1,7 @@
 streamlit
 streamlit-webrtc
 mediapipe
-# Crucial: Change this line
+# Crucial compatibility lines for Streamlit Cloud deployment:
 opencv-python-headless
 av
 deepface

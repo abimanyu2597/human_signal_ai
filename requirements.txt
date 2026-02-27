@@ -1,8 +1,9 @@
 streamlit
 streamlit-webrtc
 mediapipe
+# Crucial: Change this line
 opencv-python-headless
 av
 deepface
-tensorflow>=2.16.0
-tf-keras  # Crucial compatibility fix for newer TensorFlow versions
+tensorflow
+tf-keras
